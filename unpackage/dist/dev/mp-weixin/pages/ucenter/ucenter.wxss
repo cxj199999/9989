@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.active {
+  opacity: 0.5;
+}
+.con {
+  background-image: url("https://wx3.sinaimg.cn/orj360/006UCet1ly1h7u72zo8h1j30u01t0451.jpg");
+  height: 92vh;
+  background-size: 100%,100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+.co {
+  margin-bottom: 200px;
+}
+.form {
+  margin-left: 37%;
+  margin-top: 20px;
+  padding-top: 45rpx;
+  display: flex;
+}
+.qqq {
+  width: 70px;
+  height: 70px;
+  background-color: darkgray;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 70px;
+  margin-left: 152px;
+  margin-top: 50px;
+}
+.btn {
+  font-weight: bold;
+  color: #ccc;
+  width: 100px;
+  height: 20px;
+  border: 3px solid #ccc;
+  text-align: center;
+  border-radius: 50px;
+  line-height: 20px;
+  margin-top: 35px;
+}
+.btn1 {
+  font-weight: bold;
+  color: crimson;
+  width: 100px;
+  height: 20px;
+  border: 3px solid #ccc;
+  text-align: center;
+  border-radius: 50px;
+  line-height: 20px;
+  margin-top: 7px;
+}
+/*  */
+.example-body {
+  padding: 0;
+  display: block;
+}
+.goods-carts {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.uni-container {
+  width: 750rpx;
+}
+/*  */
+
